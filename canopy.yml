@@ -3,14 +3,8 @@ collection:
   - https://nationalgalleryofart.github.io/accademia-maps-iiif/
   - https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/
 metadata:
-  - Archive
-  - Collection
-  - Volume
   - Date
-  - Document type
-  - Associated name
   - Language of document
-  - Key terms
 featured:
   - https://nationalgalleryofart.github.io/accademia-iiif/documents/asrtcsvol054216210522/manifest.json
   - https://nationalgalleryofart.github.io/accademia-maps-iiif/maggimaupinromemapcambridge/manifest.json
